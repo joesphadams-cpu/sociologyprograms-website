@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.sociologyprograms.com/sitemap.xml
+
+# Crawl delay (optional - be polite to search engines)
+Crawl-delay: 1
+
+# Disallow any admin or private areas (when you add them)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow important directories
+Allow: /programs.html
+Allow: /career-guide.html
+Allow: /admission-tips.html
+Allow: /school-profile.html
+Allow: /advertise.html
+
+# Block any temporary or test pages
+Disallow: /test/
+Disallow: /temp/
+Disallow: /*.tmp$
+
+# SEO-friendly directives
+# Allow CSS and JS files for proper rendering
+Allow: /styles.css
+Allow: /script.js
+Allow: /*.css
+Allow: /*.js
