@@ -1,2 +1,2 @@
 # sociologyprograms
-Sociology Programs website
+SociologyPrograms.com - University program directory and advertising platform
